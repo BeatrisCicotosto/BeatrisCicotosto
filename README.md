@@ -1,5 +1,5 @@
-# Oii pessoal
-- 👋 Me chamo Beatris
+# Olá, sou a Beatris Cicotosto
+- #### 👋 Bem vindo ao meu perfil GitHub
 - 📅 Tenho 18 anos
 - 👍 meu e-mail de contato é biacicotosto@gmail.com
 - 👀 Estou interessada em aprender a programar novas linguagens
