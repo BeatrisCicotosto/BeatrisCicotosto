@@ -1,6 +1,6 @@
 # Olá, sou a Beatris Cicotosto
 - #### 👋 Bem vindo ao meu perfil GitHub
-- 📅 Tenho 19 anos
+- 📅 Tenho 20 anos
 - 👍 meu e-mail de contato é biacicotosto@gmail.com
 - 👀 Estou interessada em aprender a programar novas linguagens
 - 🌱 Estou aprendendo Scratch, JavaScript, HTML, CSS,  PHP,  MySQL
